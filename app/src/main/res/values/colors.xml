@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="textColorPrimary">#333333</color>
+    <color name="buttonColor">#6200EE</color>
+    <color name="designn">#ffff00</color>
+    <color name="start">#ffb5cc</color>
+    <color name="end">#a9a3fd</color>
+    <color name="logba">#662859</color>
+    <color name="bord">#fd9290</color>
+    <color name="shad">#bccae5</color>
+    <color name="raaya">#b47b9c</color>
+    <color name="cloud">#a5cee4</color>
+    <color name="regree">#2de8ad</color>
+</resources>
